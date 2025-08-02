@@ -6,7 +6,7 @@
 
 ## 🚀 Um pouco sobre mim
 
-- 📚 Estudante de ADS (EAD) com foco em desenvolvimento web e sistemas.
+- 📚 Estudante de ADS com foco em desenvolvimento web e sistemas.
 - 💡 Interesso-me por **engenharia de software**, **automação de processos** e **tecnologia na área da saúde**.
 - 🎯 Planejo fazer uma **pós-graduação em Engenharia de Software** após concluir o curso de ADS.
 - 📈 Apaixonado por produtividade, boas práticas de código e aprender novas stacks.
