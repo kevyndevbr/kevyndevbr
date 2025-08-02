@@ -8,7 +8,6 @@
 
 - 📚 Estudante de ADS (EAD) com foco em desenvolvimento web e sistemas.
 - 💡 Interesso-me por **engenharia de software**, **automação de processos** e **tecnologia na área da saúde**.
-- 💻 Já utilizei o sistema **Tasy** e estou aprendendo a desenvolver soluções que otimizem fluxos hospitalares.
 - 🎯 Planejo fazer uma **pós-graduação em Engenharia de Software** após concluir o curso de ADS.
 - 📈 Apaixonado por produtividade, boas práticas de código e aprender novas stacks.
 
